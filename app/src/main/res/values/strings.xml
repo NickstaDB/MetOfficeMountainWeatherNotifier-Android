@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Mountain Weather Forecast</string>
+
+    <string name="lbl_enablenotifications">Enable Notifications</string>
+    <string name="lbl_viewforecast"><a href="https://www.google.com/">View Full Met Office Forecast</a></string>
+
+    <string name="loc_brecon">Brecon Beacons</string>
+    <string name="loc_lakes">Lake District</string>
+    <string name="loc_mourne">Mourne Mountains</string>
+    <string name="loc_ngrampian">North Grampian</string>
+    <string name="loc_nwhighlands">Northwest Highlands</string>
+    <string name="loc_peak">Peak District</string>
+    <string name="loc_snowdonia">Snowdonia</string>
+    <string name="loc_sgrampian">South Grampian and Southeast Highlands</string>
+    <string name="loc_swhighlands">Southwest Highlands</string>
+    <string name="loc_yorkshire">Yorkshire Dales</string>
+
+    <string name="url_brecon">https://www.metoffice.gov.uk/weather/specialist-forecasts/mountain/brecon-beacons</string>
+    <string name="url_lakes">https://www.metoffice.gov.uk/weather/specialist-forecasts/mountain/lake-district</string>
+    <string name="url_mourne">https://www.metoffice.gov.uk/weather/specialist-forecasts/mountain/mourne-mountains</string>
+    <string name="url_ngrampian">https://www.metoffice.gov.uk/weather/specialist-forecasts/mountain/north-grampian</string>
+    <string name="url_nwhighlands">https://www.metoffice.gov.uk/weather/specialist-forecasts/mountain/northwest-highlands</string>
+    <string name="url_peak">https://www.metoffice.gov.uk/weather/specialist-forecasts/mountain/peak-district</string>
+    <string name="url_snowdonia">https://www.metoffice.gov.uk/weather/specialist-forecasts/mountain/snowdonia</string>
+    <string name="url_sgrampian">https://www.metoffice.gov.uk/weather/specialist-forecasts/mountain/south-grampian-and-southeast-highlands</string>
+    <string name="url_swhighlands">https://www.metoffice.gov.uk/weather/specialist-forecasts/mountain/southwest-highlands</string>
+    <string name="url_yorkshire">https://www.metoffice.gov.uk/weather/specialist-forecasts/mountain/yorkshire-dales</string>
+
+    <string name="shared_prefs_filename">shared_preferencex</string>
+    <string name="PREF_BRECON_ENABLED">BreconEnabled</string>
+    <string name="PREF_LAKES_ENABLED">LakeDistrictEnabled</string>
+    <string name="PREF_MOURNE_ENABLED">MourneMountainsEnabled</string>
+    <string name="PREF_NGRAMPIAN_ENABLED">NorthGrampianEnabled</string>
+    <string name="PREF_NWHIGHLANDS_ENABLED">NorthwestHighlandsEnabled</string>
+    <string name="PREF_PEAK_ENABLED">PeakDistrictEnabled</string>
+    <string name="PREF_SNOWDONIA_ENABLED">SnowdoniaEnabled</string>
+    <string name="PREF_SGRAMPIAN_ENABLED">SouthGrampianEnabled</string>
+    <string name="PREF_SWHIGHLANDS_ENABLED">SouthwestHighlandsEnabled</string>
+    <string name="PREF_YORKSHIRE_ENABLED">YorkshireDalesEnabled</string>
+</resources>
