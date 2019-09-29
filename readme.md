@@ -27,3 +27,5 @@ Notifications can be enabled/disabled individually for each of the 10 locations 
 The easy way to build the app is to load up the [Android Studio](https://developer.android.com/studio "Android Studio") project or use the `VCS -> Checkout from Version Control -> Github` menu in Android Studio.
 
 Once loaded, use the `Build -> Generate Signed APK` menu item to generate a new APK. Transfer that to your device (e.g. via USB), then install via the file manager on your device. Alternatively if your device is in developer mode enable USB debugging and run `adb install <apk-file>` to install the app.
+
+**Disclaimer:** This is the result of a day's hacking code together whilst learning Android development. It's not pretty but it does what it says on the tin. That said, I'm open to suggestions, feel free to [submit an issue](https://github.com/NickstaDB/MetOfficeMountainWeatherNotifier-Android/issues "Submit an issue or feature request.") or ping me on Twitter [@NickstaDB](https://twitter.com/nickstadb "Find me on Twitter."). I may even publish this to Google Play if there's interest.
